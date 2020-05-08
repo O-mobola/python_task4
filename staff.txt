@@ -1,2 +1,2 @@
-Name: Ola
-Password: olaide
+username: Ola
+password: olaide
