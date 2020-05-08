@@ -1,2 +1,1 @@
-username: Ola
-password: olaide
+ola, olaide, ola@yahoo.com, ola olaide
